@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="tinyproot.wmf" width="376" height="128" alt="TinyProot" />  
+	<img src="logo.wmf" width="376" height="128" alt="TinyProot" />  
 </p>
 
 # Winlator
