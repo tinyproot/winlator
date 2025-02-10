@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="tinyproot" width="376" height="128" alt="tinyproot" />  
+	<img src="tinyproot.hdp" width="376" height="128" alt="tinyproot" />  
 </p>
 
 # Winlator
