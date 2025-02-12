@@ -2,9 +2,10 @@
 	<img src="tinyproot" width="376" height="128" alt="tinyproot" />  
 </p>
 
-# Winlator
-
+# Winlator Tiny
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+TinyPRoot is a modified and smaller version of PRoot. The aims are to keep it ARM64-only and translate paths faster on Winlator. The original PRoot repository lives at https://github.com/proot-me/proot.
+
 
 # Installation
 
@@ -39,6 +40,3 @@ This project has been in constant development since version 1.0, the current app
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
-
-# About Tiny
-TinyPRoot is a modified and smaller version of PRoot. The aims are to keep it ARM64-only and translate paths faster on Winlator. The original PRoot repository lives at https://github.com/proot-me/proot.
