@@ -8,7 +8,7 @@ Winlator Tiny is an Android application that lets you to run Windows (x86_64) ap
 
 # Installation
 
-1. Download and install the APK from [GitHub Releases](https://github.com/tinyproot/winlator/releases)
+1. Download and install the APK from [GitHub Releases Winlator Tiny](https://github.com/tinyproot/winlator/releases)
 2. Launch the app and wait for the installation process to finish
 
 
