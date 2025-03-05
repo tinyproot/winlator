@@ -1,22 +1,16 @@
 <p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
+	<img src="tinyproot" width="376" height="128" alt="Winlator Tiny" />  
 </p>
 
-# Winlator
+# Winlator Tiny
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+Winlator Tiny is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
 # Installation
 
-1. Download and install the APK from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
+1. Download and install the APK from [GitHub Releases](https://github.com/tinyproot/winlator/releases)
 2. Launch the app and wait for the installation process to finish
 
-----
-
-[![Play on Youtube](https://img.youtube.com/vi/ETYDgKz4jBQ/3.jpg)](https://www.youtube.com/watch?v=ETYDgKz4jBQ)
-[![Play on Youtube](https://img.youtube.com/vi/9E4wnKf2OsI/2.jpg)](https://www.youtube.com/watch?v=9E4wnKf2OsI)
-[![Play on Youtube](https://img.youtube.com/vi/czEn4uT3Ja8/2.jpg)](https://www.youtube.com/watch?v=czEn4uT3Ja8)
-[![Play on Youtube](https://img.youtube.com/vi/eD36nxfT_Z0/2.jpg)](https://www.youtube.com/watch?v=eD36nxfT_Z0)
 
 ----
 
@@ -34,7 +28,6 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 This project has been in constant development since version 1.0, the current app source code is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
 
 # Credits and Third-party apps
-- GLIBC Patches by [Termux Pacman](https://github.com/termux-pacman/glibc-packages)
 - Wine ([winehq.org](https://www.winehq.org/))
 - Box86/Box64 by [ptitseb](https://github.com/ptitSeb)
 - Mesa (Turnip/Zink/VirGL) ([mesa3d.org](https://www.mesa3d.org))
